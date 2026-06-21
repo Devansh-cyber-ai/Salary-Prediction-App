@@ -8,8 +8,11 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.58+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-667eea?style=for-the-badge)](https://salary-prediction-app-bt83j4cussetagghkzcwgw.streamlit.app/)
 
 ---
+
+🔗 **[Try the Live App →](https://salary-prediction-app-bt83j4cussetagghkzcwgw.streamlit.app/)**
 
 *A machine-learning-powered salary estimation tool built for Indian developers and job seekers.*
 
