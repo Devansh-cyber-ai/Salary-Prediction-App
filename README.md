@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 💰 Salary Prediction System
 
@@ -158,4 +158,3 @@ This project is open source and available under the [MIT License](LICENSE).
 **Built with ❤️ by [Devansh](https://github.com/Devansh-cyber-ai)**
 
 </div>
-]]>
