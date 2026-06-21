@@ -10,6 +10,7 @@ __pycache__/
 # Large unused dataset (151 MB, exceeds GitHub limit)
 survey_results_public.csv
 
+
 # IDE
 .vscode/
 .idea/
